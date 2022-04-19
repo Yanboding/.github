@@ -1,4 +1,4 @@
-## Welcome to our lab's page! 👋
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to our lab's page!
 
 ![A photo of our lab.](https://pophealthanalytics.com/wp-content/uploads/2018/09/Team-archway.png)
 
@@ -9,6 +9,9 @@ Most importantly, we work directly with key health system decision makers, which
 impact.
 
 The Population Health Analytics Laboratory is based at the University of Toronto’s [Dalla Lana School of Public Health](https://www.dlsph.utoronto.ca/about/) — the largest public health school in Canada 🇨🇦, with more than 800 faculty, 850 students, and research and training partnerships with institutions throughout Toronto and the world. With $34.4 million in research funding per year, the School supports discovery in global health, tobacco impacts on health, occupational disease and disability, air pollution, inner city and Indigenous health, among many other areas.
+
+The best place to see what we're up to is [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PopHlthAnalytic)](https://twitter.com/PopHlthAnalytic)
+
 
 ## 🤝 Our partners and collaborators
  * 🦫 [The University of Toronto](https://www.utoronto.ca/) 
