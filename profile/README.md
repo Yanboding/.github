@@ -18,8 +18,8 @@ The best place to see what we're up to is [![Twitter Badge](https://img.shields.
  * 🏛️ [Ontario Ministry of Health and Long Term Care](https://www.ontario.ca/page/ministry-health) & [Public Health Ontario](https://www.publichealthontario.ca/) 
  * 🗄️ Health data partners (e.g. [ICES](https://www.ices.on.ca/))
  * 🏥  Hospitals (e.g. [Trillium Health Partners](https://www.thp.ca/Pages/Home.aspx), [University Health Network](https://www.uhn.ca/), etc.) 
- * 💉 Local public health units across Ontario (e.g. [Toronto Public Health](https://www.toronto.ca/city-government/accountability-operations-customer-service/city-administration/staff-directory-divisions-and-customer-service/toronto-public-health/), [Peel Public Health](https://www.peelregion.ca/health/)) 
- * 🤖 Artificial intelligence groups (e.g. [Vector Institute](https://vectorinstitute.ai/), [Layer 6](https://layer6.ai/)) 
+ * 💉 Local public health units across Ontario (e.g. [Toronto Public Health](https://www.toronto.ca/city-government/accountability-operations-customer-service/city-administration/staff-directory-divisions-and-customer-service/toronto-public-health/), [Peel Public Health](https://www.peelregion.ca/health/), etc.) 
+ * 🤖 Artificial intelligence groups (e.g. [Vector Institute](https://vectorinstitute.ai/), [Schwartz Reisman Insitute for Technology and Society](https://srinstitute.utoronto.ca/),  [Layer 6](https://layer6.ai/), etc.) 
  * Any many more! 
 
 ## 💰 Funding
