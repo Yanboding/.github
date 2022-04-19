@@ -1,5 +1,7 @@
 ## Welcome to our lab's page! 👋
 
+![A photo of our lab.](https://pophealthanalytics.com/wp-content/uploads/2018/09/Team-archway.png)
+
 Our work draws from demographic, clinical, behavioural, social, and health outcomes information. From these sources, we gain a comprehensive perspective 
 on population health, allowing us to inform decision-making related to improved health system performance, reduced inequities, and fiscal sustainability.
 
