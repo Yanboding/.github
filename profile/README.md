@@ -20,7 +20,7 @@ The best place to see what we're up to is [![Twitter Badge](https://img.shields.
  * 🏥  Hospitals (e.g. [Trillium Health Partners](https://www.thp.ca/Pages/Home.aspx), [University Health Network](https://www.uhn.ca/), etc.) 
  * 💉 Local public health units across Ontario (e.g. [Toronto Public Health](https://www.toronto.ca/city-government/accountability-operations-customer-service/city-administration/staff-directory-divisions-and-customer-service/toronto-public-health/), [Peel Public Health](https://www.peelregion.ca/health/), etc.) 
  * 🤖 Artificial intelligence groups (e.g. [Vector Institute](https://vectorinstitute.ai/), [Schwartz Reisman Insitute for Technology and Society](https://srinstitute.utoronto.ca/),  [Layer 6](https://layer6.ai/), etc.) 
- * Any many more! 
+ * And many more! 
 
 ## 💰 Funding
 Our research is undertaken, in part, thanks to funding from the [Canada Research Chairs](https://www.chairs-chaires.gc.ca/home-accueil-eng.aspx) program, the [Canadian Foundation for Innovation](https://www.innovation.ca/), and the [Canadian Institutes of Health Research](https://cihr-irsc.gc.ca/e/193.html). 🇨🇦🇨 
